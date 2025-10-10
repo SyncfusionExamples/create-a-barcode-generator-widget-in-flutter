@@ -1,19 +1,39 @@
-# Create a Barcode Generator Widget in Flutter
+# Flutter Barcode Generator Widget
 
-A quick-start example to help you add the Syncfusion Flutter Barcodes package to a Flutter app. You will learn how to create a Barcode generator widget to a Flutter project. You will learn how to change the symbology like QR Code, Data Matrix. You will also learn how to display the input value along with the Barcode for human readability. 
 
-Watch the video: Coming soon...
+This repository contains a sample that demonstrates how to create a barcode generator widget using Syncfusion® Barcode Generator package.
 
-Documentation: https://help.syncfusion.com/flutter/barcode/overview
 
-## Requirements to run the demo
-* [VS Code](https://code.visualstudio.com/download)
-* [Flutter SDK v2.0.0+](https://flutter.dev/docs/development/tools/sdk/overview)
-* [For more development tools](https://flutter.dev/docs/development/tools/devtools/overview)
+## Syncfusion® controls:
 
-## How to run this application
-To run this application, you need to first clone or download the ‘create a barcode generator widget in flutter’ repository and open it in your preferred IDE. Then, build and run your project to view the output.
 
-## Further help
-For more help, check the [Syncfusion Flutter documentation](https://help.syncfusion.com/flutter/introduction/overview), or
- [Flutter documentation](https://flutter.dev/docs/get-started/install).
+This project used the following Syncfusion® widget(s):
+* [Barcoden Generator](https://www.syncfusion.com/flutter-widgets/flutter-barcodes)
+
+
+## Supported platforms
+
+
+Refer to the following link to know about the supported platform - [Platforms](https://help.syncfusion.com/flutter/system-requirements#supported-platforms)
+
+
+## Requirements to run the sample
+
+
+Refer to the following link to know about system requirements - [System Requirements](https://help.syncfusion.com/flutter/system-requirements)
+
+
+## How to run the sample
+
+
+1. Clone the sample and open it in preferred IDE.
+2. Run the application.
+
+
+*Note: If you download the sample using the "Download ZIP" option, right-click it, select Properties, and then select Unblock.*
+
+
+## License
+
+
+Syncfusion® has no liability for any damage or consequence that may arise by using or viewing the samples. The samples are for demonstrative purposes, and if you choose to use or access the samples, you agree to not hold Syncfusion® liable, in any form, for any damage that is related to use, for accessing, or viewing the samples. By accessing, viewing, or seeing the samples, you acknowledge and agree Syncfusion®’s samples will not allow you seek injunctive relief in any form for any claim related to the sample. If you do not agree to this, do not view, access, utilize, or otherwise do anything with Syncfusion®’s samples.
